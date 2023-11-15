@@ -1,0 +1,10 @@
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\obj\Debug\Covid-19.csproj.AssemblyReference.cache
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\obj\Debug\Covid_19.FrmCovid19.resources
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\obj\Debug\Covid_19.Properties.Resources.resources
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\obj\Debug\Covid-19.csproj.GenerateResource.cache
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\obj\Debug\Covid-19.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\bin\Debug\Covid-19.exe.config
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\bin\Debug\Covid-19.exe
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\bin\Debug\Covid-19.pdb
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\obj\Debug\Covid-19.exe
+C:\Users\Camilo Moreno\Desktop\POO 2\PracticasPOO2\Covid-19\obj\Debug\Covid-19.pdb
