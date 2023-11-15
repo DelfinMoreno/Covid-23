@@ -17,6 +17,8 @@ namespace Covid_19
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmCovid19());
+
+            Console.WriteLine("Primera prueba de commit...");
         }
     }
 }
